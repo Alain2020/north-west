@@ -43,3 +43,9 @@ nav ul li a:hover{
     margin: 10%;
     margin-top: 15%;
 }
+
+.infor h1{
+    font-size: 50px;
+    color: #212121;
+    margin-bottom: 20px;
+}
