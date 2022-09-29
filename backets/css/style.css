@@ -49,3 +49,12 @@ nav ul li a:hover{
     color: #212121;
     margin-bottom: 20px;
 }
+
+span {
+    color: blue;
+}
+
+.infor p{
+    color: grey;
+    line-height: 23px;
+}
